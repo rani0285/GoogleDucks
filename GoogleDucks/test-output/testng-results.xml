@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10565" started-at="2021-06-10T13:17:13 EDT" finished-at="2021-06-10T13:17:24 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10565" started-at="2021-06-10T13:17:13 EDT" finished-at="2021-06-10T13:17:24 EDT">
+      <class name="com.GoogleSearch.qa.testcases.searchDucksTestcase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.GoogleSearch.qa.testcases.searchDucksTestcase@6acdbdf5]" name="setUp" is-config="true" duration-ms="4744" started-at="2021-06-10T13:17:13 EDT" finished-at="2021-06-10T13:17:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatePageTitleTest()[pri:1, instance:com.GoogleSearch.qa.testcases.searchDucksTestcase@6acdbdf5]" name="validatePageTitleTest" duration-ms="25" started-at="2021-06-10T13:17:18 EDT" finished-at="2021-06-10T13:17:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.GoogleSearch.qa.testcases.searchDucksTestcase@6acdbdf5]" name="teardown" is-config="true" duration-ms="0" started-at="2021-06-10T13:17:18 EDT" finished-at="2021-06-10T13:17:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.GoogleSearch.qa.testcases.searchDucksTestcase@6acdbdf5]" name="setUp" is-config="true" duration-ms="3400" started-at="2021-06-10T13:17:18 EDT" finished-at="2021-06-10T13:17:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchDucksTest()[pri:2, instance:com.GoogleSearch.qa.testcases.searchDucksTestcase@6acdbdf5]" name="searchDucksTest" duration-ms="2315" started-at="2021-06-10T13:17:22 EDT" finished-at="2021-06-10T13:17:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchDucksTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.GoogleSearch.qa.testcases.searchDucksTestcase@6acdbdf5]" name="teardown" is-config="true" duration-ms="0" started-at="2021-06-10T13:17:24 EDT" finished-at="2021-06-10T13:17:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.GoogleSearch.qa.testcases.searchDucksTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
